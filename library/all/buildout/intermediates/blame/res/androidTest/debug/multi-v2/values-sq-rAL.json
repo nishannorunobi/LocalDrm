@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LocalDrm\\library\\all\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+            "map": [
+                {
+                    "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,216,283,348,430,515,598,679,752,823",
+                        "endColumns": "87,72,66,64,81,84,82,80,72,70,65",
+                        "endOffsets": "138,211,278,343,425,510,593,674,747,818,884"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\drm\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+            "map": [
+                {
+                    "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,216,283,348,430,515,598,679,752,823",
+                        "endColumns": "87,72,66,64,81,84,82,80,72,70,65",
+                        "endOffsets": "138,211,278,343,425,510,593,674,747,818,884"
+                    }
+                }
+            ]
+        }
+    ]
+}

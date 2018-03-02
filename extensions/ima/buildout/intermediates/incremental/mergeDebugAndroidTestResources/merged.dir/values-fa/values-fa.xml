@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید."</string>
+    <string name="exo_controls_fastforward_description">"جلو بردن سریع"</string>
+    <string name="exo_controls_next_description">"آهنگ بعدی"</string>
+    <string name="exo_controls_pause_description">"مکث"</string>
+    <string name="exo_controls_play_description">"پخش"</string>
+    <string name="exo_controls_previous_description">"آهنگ قبلی"</string>
+    <string name="exo_controls_repeat_all_description">"تکرار همه"</string>
+    <string name="exo_controls_repeat_off_description">"تکرار هیچ‌کدام"</string>
+    <string name="exo_controls_repeat_one_description">"یک‌بار تکرار"</string>
+    <string name="exo_controls_rewind_description">"عقب بردن"</string>
+    <string name="exo_controls_shuffle_description">"پخش درهم"</string>
+    <string name="exo_controls_stop_description">"توقف"</string>
+    <string msgid="368094699078615544" name="s1">"ذخیره تصویر"</string>
+    <string msgid="4550830452390689489" name="s2">"به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟"</string>
+    <string msgid="2435407834265420668" name="s3">"پذیرفتن"</string>
+    <string msgid="9167523597401839819" name="s4">"نپذیرفتن"</string>
+    <string msgid="1566682516266724847" name="s5">"ایجاد رویداد تقویم"</string>
+    <string msgid="5996672174517137271" name="s6">"به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
+</resources>

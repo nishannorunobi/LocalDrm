@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exo_media_action_repeat_all_description">"အားလုံး ထပ်တလဲလဲဖွင့်ရန်"</string>
+    <string name="exo_media_action_repeat_off_description">"ထပ်တလဲလဲမဖွင့်ရန်"</string>
+    <string name="exo_media_action_repeat_one_description">"တစ်ခုအား ထပ်တလဲလဲဖွင့်ရန်"</string>
+</resources>

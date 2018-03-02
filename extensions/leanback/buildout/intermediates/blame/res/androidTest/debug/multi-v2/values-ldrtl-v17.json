@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,178",
+                        "endColumns": "77,44,46",
+                        "endOffsets": "128,173,220"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,178",
+                        "endColumns": "77,44,46",
+                        "endOffsets": "128,173,220"
+                    }
+                }
+            ]
+        }
+    ]
+}

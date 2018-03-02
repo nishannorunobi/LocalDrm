@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exo_media_action_repeat_all_description">"全曲を繰り返し"</string>
+    <string name="exo_media_action_repeat_off_description">"繰り返しなし"</string>
+    <string name="exo_media_action_repeat_one_description">"1曲を繰り返し"</string>
+</resources>

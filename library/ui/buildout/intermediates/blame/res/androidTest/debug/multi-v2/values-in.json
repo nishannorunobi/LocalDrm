@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,133,209,275,341,421,500,580,658,732,800",
+                        "endColumns": "77,75,65,65,79,78,79,77,73,67,68",
+                        "endOffsets": "128,204,270,336,416,495,575,653,727,795,864"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-in\\values-in.xml",
+            "map": [
+                {
+                    "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,133,209,275,341,421,500,580,658,732,800",
+                        "endColumns": "77,75,65,65,79,78,79,77,73,67,68",
+                        "endOffsets": "128,204,270,336,416,495,575,653,727,795,864"
+                    }
+                }
+            ]
+        }
+    ]
+}

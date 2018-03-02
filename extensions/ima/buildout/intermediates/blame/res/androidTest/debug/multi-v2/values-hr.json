@@ -1,0 +1,150 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\drm\\ExoPlayer-release-v2\\extensions\\ima\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hr\\values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.4.2.aar\\de54b381f3bef5c120e2eac6cc3d586b\\res\\values-hr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                },
+                {
+                    "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,137,213,283,356,437,514,596,675,745,831",
+                        "endColumns": "81,75,69,72,80,76,81,78,69,85,68",
+                        "endOffsets": "132,208,278,351,432,509,591,670,740,826,895"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "296,378,454,524,597,678,755,837,916,986,1072",
+                        "endColumns": "81,75,69,72,80,76,81,78,69,85,68",
+                        "endOffsets": "373,449,519,592,673,750,832,911,981,1067,1136"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.4.2.aar\\7113450eb2466b53f079f03ef89084fb\\res\\values-hr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "237,306,424,490,553,637",
+                        "endColumns": "68,117,65,62,83,114",
+                        "endOffsets": "305,423,489,552,636,751"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1141,1214,1336,1406,1473,1561",
+                        "endColumns": "72,121,69,66,87,118",
+                        "endOffsets": "1209,1331,1401,1468,1556,1675"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1680",
+                        "endColumns": "100",
+                        "endOffsets": "1776"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\LocalDrm\\extensions\\ima\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-hr\\values-hr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.4.2.aar\\0157f42c96d9585a63c4b118591af3d4\\res\\values-hr\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "237,306,424,490,553,637",
+                        "endColumns": "68,117,65,62,83,114",
+                        "endOffsets": "305,423,489,552,636,751"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1141,1214,1336,1406,1473,1561",
+                        "endColumns": "72,121,69,66,87,118",
+                        "endOffsets": "1209,1331,1401,1468,1556,1675"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.4.2.aar\\1b6d6f8fa552d828ae77c9ac8f3e8cd9\\res\\values-hr\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "190",
+                        "endOffsets": "291"
+                    }
+                },
+                {
+                    "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,137,213,283,356,437,514,596,675,745,831",
+                        "endColumns": "81,75,69,72,80,76,81,78,69,85,68",
+                        "endOffsets": "132,208,278,351,432,509,591,670,740,826,895"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "296,378,454,524,597,678,755,837,916,986,1072",
+                        "endColumns": "81,75,69,72,80,76,81,78,69,85,68",
+                        "endOffsets": "373,449,519,592,673,750,832,911,981,1067,1136"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1680",
+                        "endColumns": "100",
+                        "endOffsets": "1776"
+                    }
+                }
+            ]
+        }
+    ]
+}

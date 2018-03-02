@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_rewind.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_shuffle.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_exo_playback_control_view.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_next.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_pause.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_play.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_shuffle.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_previous.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_repeat_one.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_play.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_pause.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_next.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_next.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_next.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_play.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_rewind.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_rewind.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_previous.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_previous.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_pause.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_pause.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_previous.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_play.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_play.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_fastforward.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_pause.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_next.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_next.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_play.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_previous.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_shuffle.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_play.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_repeat_off.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_pause.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_previous.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_previous.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_previous.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_pause.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_next.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_repeat_all.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_fastforward.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_play.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_next.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_previous.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_fastforward.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_pause.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_pause.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_rewind.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_previous.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_pause.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_rewind.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_rewind.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_shuffle.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_shuffle.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_repeat_one.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_repeat_one.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_rewind.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_previous.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_repeat_one.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_pause.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_previous.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_repeat_all.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_repeat_all.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_rewind.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_next.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_exo_simple_player_view.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_pause.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_next.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_play.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_repeat_off.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_repeat_off.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_next.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_exo_controls_fastforward.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_exo_simple_player_view.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_next.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_next.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_play.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_previous.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_play.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_rewind.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_fastforward.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_play.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_repeat_off.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_exo_controls_pause.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_next.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_exo_controls_previous.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_exo_playback_control_view.xml.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21_exo_controls_play.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-anydpi-v21\\exo_controls_play.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_pause.png.flat",
+        "source": "D:\\LocalDrm\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_exo_controls_rewind.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_exo_controls_rewind.png.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_media_custom.xml"
+    }
+]

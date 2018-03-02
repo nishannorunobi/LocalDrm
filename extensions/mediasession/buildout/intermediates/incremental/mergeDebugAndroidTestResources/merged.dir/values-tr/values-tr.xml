@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exo_media_action_repeat_all_description">"Tümünü Tekrarla"</string>
+    <string name="exo_media_action_repeat_off_description">"Hiçbirini Tekrarlama"</string>
+    <string name="exo_media_action_repeat_one_description">"Birini Tekrarla"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

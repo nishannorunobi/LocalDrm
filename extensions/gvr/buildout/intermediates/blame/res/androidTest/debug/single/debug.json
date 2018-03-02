@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-xxxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-xhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_transition_view.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_ui_layer.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-xxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_rippleable.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable\\rippleable.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-hdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-ldrtl-land-v17\\back_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-xxxhdpi-v4\\quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_rippleable.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_back_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-ldrtl-v17\\back_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_settings_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_settings_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-land\\settings_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_transition.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\drawable-mdpi-v4\\transition.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land_back_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\13b5b294348c10c7e8b2357456d874d6\\res\\layout-ldrtl-v17\\settings_button.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-ldrtl-v17_back_button.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\sdk-common-1.80.0.aar\\d5597cd81fd48098e5e80e2b3699cf61\\res\\layout-ldrtl-v17\\back_button.xml"
+    }
+]

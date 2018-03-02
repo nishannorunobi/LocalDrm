@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
+    <string name="exo_controls_fastforward_description">"Avance rapide"</string>
+    <string name="exo_controls_next_description">"Piste suivante"</string>
+    <string name="exo_controls_pause_description">"Interrompre"</string>
+    <string name="exo_controls_play_description">"Lire"</string>
+    <string name="exo_controls_previous_description">"Piste précédente"</string>
+    <string name="exo_controls_repeat_all_description">"Tout lire en boucle"</string>
+    <string name="exo_controls_repeat_off_description">"Ne rien lire en boucle"</string>
+    <string name="exo_controls_repeat_one_description">"Lire en boucle un élément"</string>
+    <string name="exo_controls_rewind_description">"Retour arrière"</string>
+    <string name="exo_controls_shuffle_description">"Lire en mode aléatoire"</string>
+    <string name="exo_controls_stop_description">"Arrêter"</string>
+    <string msgid="368094699078615544" name="s1">"Enregistrer l\'image"</string>
+    <string msgid="4550830452390689489" name="s2">"Autoriser l\'annonce à stocker l\'image dans la galerie d\'images ?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepter"</string>
+    <string msgid="9167523597401839819" name="s4">"Refuser"</string>
+    <string msgid="1566682516266724847" name="s5">"Créer un événement d\'agenda"</string>
+    <string msgid="5996672174517137271" name="s6">"Autoriser l\'annonce à créer un événement d\'agenda ?"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+</resources>

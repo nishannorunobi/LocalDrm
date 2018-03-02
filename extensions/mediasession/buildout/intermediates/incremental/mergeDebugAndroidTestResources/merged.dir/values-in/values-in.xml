@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exo_media_action_repeat_all_description">"Ulangi Semua"</string>
+    <string name="exo_media_action_repeat_off_description">"Jangan Ulangi"</string>
+    <string name="exo_media_action_repeat_one_description">"Ulangi Satu"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

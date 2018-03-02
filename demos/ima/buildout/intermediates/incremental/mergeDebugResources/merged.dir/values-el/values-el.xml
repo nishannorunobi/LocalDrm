@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά."</string>
+    <string name="exo_controls_fastforward_description">"Γρήγορη προώθηση"</string>
+    <string name="exo_controls_next_description">"Επόμενο κομμάτι"</string>
+    <string name="exo_controls_pause_description">"Παύση"</string>
+    <string name="exo_controls_play_description">"Αναπαραγωγή"</string>
+    <string name="exo_controls_previous_description">"Προηγούμενο κομμάτι"</string>
+    <string name="exo_controls_repeat_all_description">"Επανάληψη όλων"</string>
+    <string name="exo_controls_repeat_off_description">"Καμία επανάληψη"</string>
+    <string name="exo_controls_repeat_one_description">"Επανάληψη ενός στοιχείου"</string>
+    <string name="exo_controls_rewind_description">"Επαναφορά"</string>
+    <string name="exo_controls_shuffle_description">"Τυχαία αναπαραγωγή"</string>
+    <string name="exo_controls_stop_description">"Διακοπή"</string>
+    <string msgid="368094699078615544" name="s1">"Αποθήκευση εικόνας"</string>
+    <string msgid="4550830452390689489" name="s2">"Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στο gallery φωτογραφιών;"</string>
+    <string msgid="2435407834265420668" name="s3">"Αποδοχή"</string>
+    <string msgid="9167523597401839819" name="s4">"Απόρριψη"</string>
+    <string msgid="1566682516266724847" name="s5">"Δημιουργία συμβάντος ημερολογίου"</string>
+    <string msgid="5996672174517137271" name="s6">"Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

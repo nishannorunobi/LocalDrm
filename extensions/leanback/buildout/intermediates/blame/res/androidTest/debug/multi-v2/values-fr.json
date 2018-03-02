@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4597",
+                        "endColumns": "100",
+                        "endOffsets": "4693"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,412,508,631,746,845,939,1071,1199,1305,1431,1609,1737,1860,1967,2064,2197,2288,2398,2510,2626,2727,2848,2974,3109,3243,3359,3481,3582,3696,3795,3907,3994,4082,4189,4332,4499",
+                        "endColumns": "106,100,98,95,122,114,98,93,131,127,105,125,177,127,122,106,96,132,90,109,111,115,100,120,125,134,133,115,121,100,113,98,111,86,87,106,142,166,97",
+                        "endOffsets": "207,308,407,503,626,741,840,934,1066,1194,1300,1426,1604,1732,1855,1962,2059,2192,2283,2393,2505,2621,2722,2843,2969,3104,3238,3354,3476,3577,3691,3790,3902,3989,4077,4184,4327,4494,4592"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4597",
+                        "endColumns": "100",
+                        "endOffsets": "4693"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,412,508,631,746,845,939,1071,1199,1305,1431,1609,1737,1860,1967,2064,2197,2288,2398,2510,2626,2727,2848,2974,3109,3243,3359,3481,3582,3696,3795,3907,3994,4082,4189,4332,4499",
+                        "endColumns": "106,100,98,95,122,114,98,93,131,127,105,125,177,127,122,106,96,132,90,109,111,115,100,120,125,134,133,115,121,100,113,98,111,86,87,106,142,166,97",
+                        "endOffsets": "207,308,407,503,626,741,840,934,1066,1194,1300,1426,1604,1732,1855,1962,2059,2192,2283,2393,2505,2621,2722,2843,2969,3104,3238,3354,3476,3577,3691,3790,3902,3989,4077,4184,4327,4494,4592"
+                    }
+                }
+            ]
+        }
+    ]
+}

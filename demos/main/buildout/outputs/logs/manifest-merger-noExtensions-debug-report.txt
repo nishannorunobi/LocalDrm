@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:17:1-80:12
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:17:1-80:12
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:17:1-80:12
+MERGED from [:library-dash] D:\LocalDrm\library\dash\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-25:12
+MERGED from [:library-hls] D:\LocalDrm\library\hls\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-25:12
+MERGED from [:library-smoothstreaming] D:\LocalDrm\library\smoothstreaming\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-25:12
+MERGED from [:library-ui] D:\LocalDrm\library\ui\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-25:12
+MERGED from [:library-core] D:\LocalDrm\library\core\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-25:12
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:17:1-80:12
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:17:1-80:12
+	package
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:18:5-49
+	android:versionName
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:20:5-32
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:19:5-31
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:22:3-64
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:22:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:23:3-77
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:23:20-75
+uses-feature#android.software.leanback
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:24:3-84
+	android:required
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:24:58-82
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:24:17-57
+uses-feature#android.hardware.touchscreen
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:25:3-87
+	android:required
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:25:61-85
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:25:17-60
+uses-sdk
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:3-71
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:3-71
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:3-71
+MERGED from [:library-dash] D:\LocalDrm\library\dash\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-dash] D:\LocalDrm\library\dash\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-hls] D:\LocalDrm\library\hls\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-hls] D:\LocalDrm\library\hls\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-smoothstreaming] D:\LocalDrm\library\smoothstreaming\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-smoothstreaming] D:\LocalDrm\library\smoothstreaming\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-ui] D:\LocalDrm\library\ui\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-ui] D:\LocalDrm\library\ui\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-core] D:\LocalDrm\library\core\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+MERGED from [:library-core] D:\LocalDrm\library\core\buildout\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-23:41
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:3-71
+INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:3-71
+	android:targetSdkVersion
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:40-69
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:26:13-39
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml
+application
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:28:3-78:17
+	android:label
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:29:7-47
+	android:largeHeap
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:32:7-31
+	android:icon
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:30:7-41
+	android:allowBackup
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:33:7-34
+	android:banner
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:31:7-43
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:34:7-72
+activity#com.google.android.exoplayer2.demo.SampleChooserActivity
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:36:5-56:16
+	android:label
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:38:9-49
+	android:configChanges
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:37:9-47
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:36:15-86
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:39:7-43:23
+action#android.intent.action.MAIN
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:40:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:41:9-68
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:41:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:42:9-77
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:42:19-75
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:44:7-55:23
+action#android.intent.action.VIEW
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:45:9-60
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:45:17-58
+category#android.intent.category.DEFAULT
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:46:9-67
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:46:19-65
+category#android.intent.category.BROWSABLE
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:47:9-69
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:47:19-67
+data
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:48:9-38
+	android:host
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:53:15-31
+	android:scheme
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:48:15-36
+	android:pathPattern
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:54:15-56
+activity#com.google.android.exoplayer2.demo.PlayerActivity
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:58:5-76:16
+	android:label
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:61:9-49
+	android:launchMode
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:60:9-39
+	android:configChanges
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:59:9-118
+	android:theme
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:62:9-43
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:58:15-79
+intent-filter#android.intent.category.DEFAULT+com.google.android.exoplayer.demo.action.VIEW
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:63:7-71:23
+action#com.google.android.exoplayer.demo.action.VIEW
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:64:9-79
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:64:17-77
+intent-filter#android.intent.category.DEFAULT+com.google.android.exoplayer.demo.action.VIEW_LIST
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:72:7-75:23
+action#com.google.android.exoplayer.demo.action.VIEW_LIST
+ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:73:9-84
+	android:name
+		ADDED from D:\LocalDrm\demos\main\src\main\AndroidManifest.xml:73:17-82

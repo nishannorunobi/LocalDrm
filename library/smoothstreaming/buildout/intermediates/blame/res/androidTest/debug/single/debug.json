@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\LocalDrm\\library\\smoothstreaming\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_host_activity.xml.flat",
+        "source": "D:\\LocalDrm\\testutils\\buildout\\intermediates\\bundles\\debug\\res\\layout\\host_activity.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\library\\smoothstreaming\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_host_activity.xml.flat",
+        "source": "F:\\drm\\ExoPlayer-release-v2\\testutils\\buildout\\intermediates\\bundles\\debug\\res\\layout\\host_activity.xml"
+    }
+]

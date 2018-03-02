@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml:17:1-57
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml:17:1-57
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml:17:1-57
+	package
+		ADDED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml:17:11-55
+		INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+		ADDED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+		ADDED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml
+		INJECTED from D:\LocalDrm\library\core\src\main\AndroidManifest.xml

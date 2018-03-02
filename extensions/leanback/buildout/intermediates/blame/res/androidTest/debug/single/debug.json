@@ -1,0 +1,1874 @@
+[
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_shared_element_enter_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_container.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_card_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-v21\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_play_fit.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_play_fit.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_playback_loop.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_playback_loop.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v19_lb_browse_headers_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v19\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_action_1_line.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_vertical_grid_entrance_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_vertical_grid_enter_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_replay.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_replay.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_title_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_title_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_enter_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_pause.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_pause.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_stop.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_stop.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_nav_arrow.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_nav_arrow.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_details_return_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_details_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_speech_orb.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_shared_element_enter_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_shared_element_enter_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_video_surface_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\video_surface_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedstep_slide_down.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_transport_controls.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_playback_transport_controls.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_start_button_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_rows_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedactions.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_details_enter_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedactions_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_down.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_thumb_down.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_card_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_card_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_guidedstep_activity_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_divider.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_divider.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_transport_controls_row.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_playback_transport_controls_row.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v19_lb_browse_headers_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v19\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_now_playing_bars.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_playback_bg_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_up_outline.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_thumb_up_outline.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_card_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_card_shadow_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_details_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_stop.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_stop.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_rows_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_rows_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedstep_slide_down.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_guidedstep_slide_down.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_open.ogg.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_title_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_title_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_vertical_grid_return_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_headers_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_fullwidth_details_overview.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_headers_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_cc.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_cc.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_up.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_thumb_up.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedbuttonactions.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_entrance_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_badge_right.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_video_surface_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\video_surface_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_badge_left.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v19_lb_browse_headers_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v19\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_skip_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_replay.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_replay.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_details_description.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_details_description.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_details_description.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_badge_left.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\anim_lb_decelerator_2.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\anim\\lb_decelerator_2.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_media_list_header.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_media_list_header.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_video_surface.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_video_surface.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_media_item_number_view_flipper.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_fullwidth_details_overview_logo.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_description_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_playback_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidance.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\anim_lb_decelerator_2.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\anim\\lb_decelerator_2.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_down_outline.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_thumb_down_outline.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedactions_datepicker_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_two.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_text_dot_two.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_shared_element_return_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_logo_exit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_card_foreground.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-v21\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedstep_slide_up.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_list_row.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_logo_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_one_small.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_text_dot_one_small.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_description_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedactions_item_unpressed.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_rows_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_controls_row.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_page_indicator_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_return_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_page_indicator_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_search_orb.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_playback_now_playing_bar.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_playback_now_playing_bar.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_search_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_vertical_grid_entrance_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_vertical_grid_entrance_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_onboarding_start_button_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_onboarding_start_button_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_description_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_success.ogg.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_playback_bg_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_guidedstep_activity_enter_bottom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_cc.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_cc.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_description_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_search_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedactions_item.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_enter_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_enter_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedstep_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_vertical_grid_return_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_vertical_grid_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_playback_description_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_page_indicator_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_vertical_grid_enter_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_vertical_grid_enter_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_description_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_container.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_row_container.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_header.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_browse_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedbuttonactions.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_two_small.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_text_dot_two_small.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_page_indicator_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_page_indicator_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_two.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_text_dot_two.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_enter_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_enter_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_description_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_onboarding_description_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_transport_controls.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_playback_transport_controls.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_failure.ogg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-v21\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_enter_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_browse_enter_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker_separator.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_picker.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_logo_exit.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-v21\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_return_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_action_2_lines.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_play.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_play.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_fast_rewind.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_fast_rewind.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_no_input.ogg.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_headers_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_title.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_media_item.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_row_media_item.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_media_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_row_media_item.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_bg_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_logo_exit.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_one.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_text_dot_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_controls_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker_item.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_skip_next.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_skip_next.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_selectable_item_rounded_rect.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-v21\\lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_background_window.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_list_row.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_list_row.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_title_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_no_input.ogg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_logo_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker_item.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_picker_item.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_playback_bg_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_success.ogg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_one.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_text_dot_one.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_action_2_lines.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_now_playing_bars.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_search_orb.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_search_orb.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_playback_now_playing_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_playback_now_playing_bar.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_shuffle.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_shuffle.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedstep_slide_up.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_guidedstep_slide_up.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_one_small.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_text_dot_one_small.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_hq.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_hq.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_selectable_item_rounded_rect.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-v21\\lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_rows_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_rows_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_text_dot_two_small.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_text_dot_two_small.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_controls_row.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_bg_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_down.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_thumb_down.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_shadow.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_fast_forward.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_fast_forward.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_media_item_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_headers_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_headers_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_control_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_page_indicator_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_search_orb.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_card_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidance.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidance.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_video_surface.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_video_surface.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_more.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_more.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_onboarding_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_logo_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_browse_title.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_action_bg.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-v21\\lb_action_bg.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_controls_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_details_enter_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_details_enter_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedactions_item_unpressed.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_guidedactions_item_unpressed.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_search_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_search_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_control_bar.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_control_bar.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_up.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_thumb_up.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_details_overview.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_section_header.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_section_header.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_page_indicator_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_page_indicator_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_error_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_transport_controls_row.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_playback_transport_controls_row.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_failure.ogg.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\raw\\lb_voice_failure.ogg"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_skip_next.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_skip_next.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_card_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_card_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_card_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_card_shadow_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker_column.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_search_bar.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_search_bar.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedstep_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedactions_datepicker_item.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_hq.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_hq.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedactions_item_pressed.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_guidedactions_item_pressed.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_guidedactions_item_pressed.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_badge_right.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_list_row_hovercard.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_start_button_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_headers_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_headers_right_fading.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_vertical_grid.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_guidedstep_activity_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_guidedstep_activity_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_logo_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_logo_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_controls_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_controls_fade_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_loop.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_loop.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_loop.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_loop.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_guidedactions_item_chevron.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_guidedactions_item_chevron.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_logo_exit.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_onboarding_logo_exit.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_speech_orb.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_background_window.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_background_window.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_title_view.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_fullwidth_details_overview_logo.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_action_1_line.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_down_outline.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_thumb_down_outline.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_loop_one.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_loop_one.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_onboarding_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_thumb_up_outline.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_thumb_up_outline.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\raw_lb_voice_open.ogg.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_description_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_title_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_title_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_shadow.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_shadow.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_content.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_vertical_grid_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_section_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_section_header.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_controls.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_action_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-v21\\lb_action_bg.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_page_indicator_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_title_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_headers_right_fading.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_details_return_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_details_return_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_media_item_action.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_title_enter.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker_column.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_picker_column.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_details_fragment.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_details_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_action_bg_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_action_bg_focused.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_media_list_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_media_list_header.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_title_view.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_title_view.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_list_row_hovercard.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedactions.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_guidedactions.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v19_lb_browse_headers_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v19\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_page_indicator_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_onboarding_page_indicator_enter.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_rows_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_nav_arrow.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_nav_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_rows_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_rows_fade_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\anim_lb_decelerator_4.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\anim\\lb_decelerator_4.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_pip.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_pip.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_fast_forward.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_fast_forward.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_vertical_grid.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_vertical_grid.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_start_button_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_start_button_fade_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_browse_title.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_browse_title.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_playback_loop.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_playback_loop.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_media_item_number_view_flipper.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedstep_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_bg_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\anim_lb_decelerator_4.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\anim\\lb_decelerator_4.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_guidedactions_item_chevron.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_guidedactions_item_chevron.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_card_foreground.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_card_foreground.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_playback_progress_bar.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-mdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_entrance_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_browse_entrance_transition.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_row_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_row_header.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_title_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_title_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_image_card_view.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_search_orb.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_search_orb.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_content.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_controls_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator\\lb_playback_controls_fade_out.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_play_fit.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_play_fit.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_onboarding_title_enter.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator-v21\\lb_onboarding_title_enter.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_more.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_more.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_playback_bg_fade_in.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_controls.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_playback_controls.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-v21\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_header.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_fast_rewind.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_fast_rewind.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_ic_search_mic_out.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_speech_orb.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_pip.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_pip.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_return_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_image_card_view_themed_title.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_playback_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_playback_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_skip_previous.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_skip_previous.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_onboarding_start_button_fade_out.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_onboarding_start_button_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_control_button_primary.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_control_button_primary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-hdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_guidedstep_background.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_loop_one.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_loop_one.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21_lb_playback_description_fade_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_lb_control_button_secondary.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-v21\\lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_description_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_description_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_ic_in_app_search.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_ic_in_app_search.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_actions_right_arrow.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_ic_actions_right_arrow.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_error_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_error_fragment.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_in_app_search_bg.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xxhdpi-v4\\lb_in_app_search_bg.9.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_shared_element_return_transition.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_shared_element_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_fullwidth_details_overview.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\layout\\lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_lb_ic_search_mic.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-mdpi-v4\\lb_ic_search_mic.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_lb_ic_sad_cloud.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-hdpi-v4\\lb_ic_sad_cloud.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_vertical_grid_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_picker_separator.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_picker_separator.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_guidedstep_activity_enter_bottom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\transition-v21\\lb_guidedstep_activity_enter_bottom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_browse_fragment.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_browse_fragment.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_return_transition.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_return_transition.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_playback_progress_bar.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_divider.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_divider.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_play.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_play.png"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_in_app_search_shadow_normal.9.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\drawable-xhdpi-v4\\lb_in_app_search_shadow_normal.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_lb_in_app_search_shadow_focused.9.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xxhdpi-v4\\lb_in_app_search_shadow_focused.9.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_pause.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_pause.png"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_header.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_header.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\93f774716174f71f5d50a0dd5d462685\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_lb_details_overview.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\layout\\lb_details_overview.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\animator_lb_playback_bg_fade_in.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\animator\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.0.aar\\ca2c61a0832499f0f6b840333b550902\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\transition-v21_lb_browse_headers_out.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\transition-v21\\lb_browse_headers_out.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable_lb_speech_orb.xml.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable\\lb_speech_orb.xml"
+    },
+    {
+        "merged": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_lb_ic_search_mic_out.png.flat",
+        "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\drawable-xhdpi-v4\\lb_ic_search_mic_out.png"
+    }
+]

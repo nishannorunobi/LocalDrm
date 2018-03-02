@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exo_media_action_repeat_all_description">"全曲を繰り返し"</string>
+    <string name="exo_media_action_repeat_off_description">"繰り返しなし"</string>
+    <string name="exo_media_action_repeat_one_description">"1曲を繰り返し"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

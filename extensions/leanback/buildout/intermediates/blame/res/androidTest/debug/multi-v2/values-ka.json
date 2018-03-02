@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\LocalDrm\\extensions\\leanback\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\ea7fed0914b02ad7108424b866a19bf5\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,413,510,636,749,848,940,1074,1205,1311,1443,1596,1721,1842,1955,2046,2178,2268,2375,2483,2589,2690,2803,2926,3046,3163,3272,3382,3506,3628,3750,3870,3957,4040,4144,4281,4435",
+                        "endColumns": "106,100,99,96,125,112,98,91,133,130,105,131,152,124,120,112,90,131,89,106,107,105,100,112,122,119,116,108,109,123,121,121,119,86,82,103,136,153,92",
+                        "endOffsets": "207,308,408,505,631,744,843,935,1069,1200,1306,1438,1591,1716,1837,1950,2041,2173,2263,2370,2478,2584,2685,2798,2921,3041,3158,3267,3377,3501,3623,3745,3865,3952,4035,4139,4276,4430,4523"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nishan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\bf46abf2b00439a4200a498cab1a2bbd\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4528",
+                        "endColumns": "100",
+                        "endOffsets": "4624"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\drm\\ExoPlayer-release-v2\\extensions\\leanback\\buildout\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ka\\values-ka.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-27.0.0.aar\\0e7d267201333ad5341f68f42f0bfb05\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,313,413,510,636,749,848,940,1074,1205,1311,1443,1596,1721,1842,1955,2046,2178,2268,2375,2483,2589,2690,2803,2926,3046,3163,3272,3382,3506,3628,3750,3870,3957,4040,4144,4281,4435",
+                        "endColumns": "106,100,99,96,125,112,98,91,133,130,105,131,152,124,120,112,90,131,89,106,107,105,100,112,122,119,116,108,109,123,121,121,119,86,82,103,136,153,92",
+                        "endOffsets": "207,308,408,505,631,744,843,935,1069,1200,1306,1438,1591,1716,1837,1950,2041,2173,2263,2370,2478,2584,2685,2798,2921,3041,3158,3267,3377,3501,3623,3745,3865,3952,4035,4139,4276,4430,4523"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\1c2f0cbb3fa8942a1e7b805ebed140c2\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "4528",
+                        "endColumns": "100",
+                        "endOffsets": "4624"
+                    }
+                }
+            ]
+        }
+    ]
+}

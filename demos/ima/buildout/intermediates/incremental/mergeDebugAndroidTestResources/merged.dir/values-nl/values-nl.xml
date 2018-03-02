@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Probeer het opnieuw."</string>
+    <string name="exo_controls_fastforward_description">"Vooruitspoelen"</string>
+    <string name="exo_controls_next_description">"Volgend nummer"</string>
+    <string name="exo_controls_pause_description">"Onderbreken"</string>
+    <string name="exo_controls_play_description">"Afspelen"</string>
+    <string name="exo_controls_previous_description">"Vorig nummer"</string>
+    <string name="exo_controls_repeat_all_description">"Alles herhalen"</string>
+    <string name="exo_controls_repeat_off_description">"Niet herhalen"</string>
+    <string name="exo_controls_repeat_one_description">"Eén herhalen"</string>
+    <string name="exo_controls_rewind_description">"Terugspoelen"</string>
+    <string name="exo_controls_shuffle_description">"Shuffle"</string>
+    <string name="exo_controls_stop_description">"Stoppen"</string>
+    <string msgid="368094699078615544" name="s1">"Afbeelding opslaan"</string>
+    <string msgid="4550830452390689489" name="s2">"Advertentie toestaan om afbeelding op te slaan in fotogalerij?"</string>
+    <string msgid="2435407834265420668" name="s3">"Accepteren"</string>
+    <string msgid="9167523597401839819" name="s4">"Weigeren"</string>
+    <string msgid="1566682516266724847" name="s5">"Agenda-afspraak maken"</string>
+    <string msgid="5996672174517137271" name="s6">"Advertentie toestaan om een agenda-afspraak te maken?"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

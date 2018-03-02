@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exo_media_action_repeat_all_description">"ਸਭ ਨੂੰ ਦੁਹਰਾਓ"</string>
+    <string name="exo_media_action_repeat_off_description">"ਕੋਈ ਵੀ ਨਹੀਂ ਦੁਹਰਾਓ"</string>
+    <string name="exo_media_action_repeat_one_description">"ਇੱਕ ਦੁਹਰਾਓ"</string>
+</resources>

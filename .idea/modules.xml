@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocalDrm.iml" filepath="$PROJECT_DIR$/LocalDrm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/main/demo.iml" filepath="$PROJECT_DIR$/demos/main/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/ima/demo-ima.iml" filepath="$PROJECT_DIR$/demos/ima/demo-ima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/ffmpeg/extension-ffmpeg.iml" filepath="$PROJECT_DIR$/extensions/ffmpeg/extension-ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/flac/extension-flac.iml" filepath="$PROJECT_DIR$/extensions/flac/extension-flac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gvr/extension-gvr.iml" filepath="$PROJECT_DIR$/extensions/gvr/extension-gvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/ima/extension-ima.iml" filepath="$PROJECT_DIR$/extensions/ima/extension-ima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/leanback/extension-leanback.iml" filepath="$PROJECT_DIR$/extensions/leanback/extension-leanback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/mediasession/extension-mediasession.iml" filepath="$PROJECT_DIR$/extensions/mediasession/extension-mediasession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/okhttp/extension-okhttp.iml" filepath="$PROJECT_DIR$/extensions/okhttp/extension-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/opus/extension-opus.iml" filepath="$PROJECT_DIR$/extensions/opus/extension-opus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/rtmp/extension-rtmp.iml" filepath="$PROJECT_DIR$/extensions/rtmp/extension-rtmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" filepath="$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/all/library.iml" filepath="$PROJECT_DIR$/library/all/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/core/library-core.iml" filepath="$PROJECT_DIR$/library/core/library-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/dash/library-dash.iml" filepath="$PROJECT_DIR$/library/dash/library-dash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/hls/library-hls.iml" filepath="$PROJECT_DIR$/library/hls/library-hls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/smoothstreaming/library-smoothstreaming.iml" filepath="$PROJECT_DIR$/library/smoothstreaming/library-smoothstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/ui/library-ui.iml" filepath="$PROJECT_DIR$/library/ui/library-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playbacktests/playbacktests.iml" filepath="$PROJECT_DIR$/playbacktests/playbacktests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testutils/testutils.iml" filepath="$PROJECT_DIR$/testutils/testutils.iml" />
+    </modules>
+  </component>
+</project>
