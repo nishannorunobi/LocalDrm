@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\drm\ExoPlayer-release-v2\library\dash\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\drm\ExoPlayer-release-v2\library\dash\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\LocalDrm\library\dash\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\LocalDrm\library\dash\src\debug\jniLibs"/></dataSet></merger>

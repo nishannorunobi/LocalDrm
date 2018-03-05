@@ -1,42 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
+    abi="x86"
     api-level="27"
-    build-mode="COLD"
+    build-mode="FULL"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1518771918942"
+    timestamp="1520239659535"
     token="-4559322991744134711"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="214" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="0" />
     <task
         name="verifier"
-        duration="12" />
+        duration="0" />
 
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
     <artifact
         location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="D:\LocalDrm\demos\ima\buildout\outputs\apk\debug\demo-ima-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1518769071158"
+        timestamp="1520239659535"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -48,6 +113,27 @@
             location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
             location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
@@ -57,35 +143,29 @@
             location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
             location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="D:\LocalDrm\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\outputs\apk\debug\demo-ima-debug.apk"
+            location="D:\LocalDrm\demos\ima\buildout\outputs\apk\debug\demo-ima-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1518770888012"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\outputs\apk\debug\demo-ima-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1518771918942"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="F:\drm\ExoPlayer-release-v2\demos\ima\buildout\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>

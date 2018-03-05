@@ -70,7 +70,7 @@ import java.util.UUID;
         } catch (UnsupportedDrmException e) {
             e.printStackTrace();
         }
-        DefaultRenderersFactory renderersFactory = new DefaultRenderersFactory(context,drmSessionManager, extensionRendererMode);
+        DefaultRenderersFactory renderersFactory = new DefaultRenderersFactory(context, drmSessionManager, extensionRendererMode);
         //DefaultRenderersFactory renderersFactory = new DefaultRenderersFactory(context);
         player = ExoPlayerFactory.newSimpleInstance(renderersFactory, trackSelector);
 
@@ -98,11 +98,17 @@ import java.util.UUID;
         DrmSessionManager<FrameworkMediaCrypto> drmSessionManager = null;
         String drmScheme = "clearkey";
         UUID uuid = DemoUtil.getDrmUuid(drmScheme);
-        
+        KeyConverter keyConverter = new KeyConverter();
+        String key = keyConverter.getEncodedKey();
+        String keid = keyConverter.getEncodedKid();
         LocalMediaDrmCallback drmCallback =
                 new LocalMediaDrmCallback(
-                       // "{\"keys\":[{\"kty\":\"oct\",\"k\":\"CiR7B1HL8agn4v7fuHR5og\",\"kid\":\"kTQZUWlrXhuiMkOezsHxKg\"}],\"type\":\"temporary\"}".getBytes());
-        "{\"keys\":[{\"kty\":\"oct\",\"k\":\"NjllYWE4MDJhNjc2M2FmOTc5ZThkMTk0MGZiODgzOTI=\",\"kid\":\"YWJiYTI3MWU4YmNmNTUyYmJkMmU4NmE0MzRhOWE1ZDk=\"}],\"type\":\"temporary\"}".getBytes());
+                        // "{\"keys\":[{\"kty\":\"oct\",\"k\":\"CiR7B1HL8agn4v7fuHR5og\",\"kid\":\"kTQZUWlrXhuiMkOezsHxKg\"}],\"type\":\"temporary\"}".getBytes());
+                        ("{\"keys\":[{\"kty\":\"oct\",\"k\":\"" +
+                                key +
+                                "\",\"kid\":\"" +
+                                keid +
+                                "\"}],\"type\":\"temporary\"}").getBytes());
         FrameworkMediaDrm fmDrm = FrameworkMediaDrm.newInstance(uuid);
         drmSessionManager = new DefaultDrmSessionManager<FrameworkMediaCrypto>(
                 uuid,

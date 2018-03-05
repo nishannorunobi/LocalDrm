@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\drm\ExoPlayer-release-v2\library\core\src\main\assets"/><source path="F:\drm\ExoPlayer-release-v2\library\core\buildout\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\drm\ExoPlayer-release-v2\library\core\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\LocalDrm\library\core\src\main\assets"/><source path="D:\LocalDrm\library\core\buildout\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\LocalDrm\library\core\src\debug\assets"/></dataSet></merger>

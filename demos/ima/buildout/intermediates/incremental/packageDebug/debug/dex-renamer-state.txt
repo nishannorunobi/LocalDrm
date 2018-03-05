@@ -1,19 +1,4 @@
-#Fri Feb 16 14:48:18 BDT 2018
-path.1=classes.dex
+#Mon Mar 05 15:28:56 BDT 2018
+base.0=D\:\\LocalDrm\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\24
 path.0=classes.dex
-renamed.5=classes6.dex
-renamed.4=classes5.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=F\:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\15
-base.4=F\:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\12
-base.3=F\:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\14
-base.2=F\:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\11
-base.1=F\:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\16
-base.0=F\:\\drm\\ExoPlayer-release-v2\\demos\\ima\\buildout\\intermediates\\transforms\\dexMerger\\debug\\13
-path.5=classes.dex
-path.4=classes.dex
-path.3=classes.dex
-path.2=classes.dex

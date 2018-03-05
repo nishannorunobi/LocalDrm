@@ -15,7 +15,9 @@
  */
 package com.google.android.exoplayer2.imademo;
 
+import android.os.Build;
 import android.text.TextUtils;
+import android.util.Base64;
 
 import com.google.android.exoplayer2.C;
 import com.google.android.exoplayer2.Format;
@@ -23,6 +25,9 @@ import com.google.android.exoplayer2.drm.UnsupportedDrmException;
 import com.google.android.exoplayer2.util.MimeTypes;
 import com.google.android.exoplayer2.util.Util;
 
+import junit.framework.Assert;
+
+import java.nio.ByteBuffer;
 import java.util.Locale;
 import java.util.UUID;
 
@@ -114,4 +119,17 @@ import java.util.UUID;
   }
 
   private DemoUtil() {}
+
+  public static String getBase64Encoded(long prefix,long suffix){
+    String output = null;
+    ByteBuffer buffer = ByteBuffer.allocate(16);
+    buffer.putLong(prefix);
+    buffer.putLong(suffix);
+    byte[] kidBytes = buffer.array();
+    output = Base64.encodeToString(kidBytes, Base64.NO_PADDING);
+/*    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+      output = java.util.Base64.getUrlEncoder().encodeToString(kidBytes);
+    }*/
+    return output;
+  }
 }
